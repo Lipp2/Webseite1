@@ -1,0 +1,29 @@
+﻿body {
+  position: relative;
+}
+
+.rounded-circle {
+    width:72%;
+    height:auto;
+    border: 10px solid transparent;
+    width: 80%;
+    height: auto;
+    opacity: 0.7;
+    margin-bottom: 25px;
+}
+
+.rounded-circle:hover {
+        border-color: #d1d1d1;
+}
+
+.carousel-inner img {
+    filter: grayscale(90%);
+    max-height:950px;
+}
+.bg-dark {
+    background-color:rgba(0,0,0,0.7) !important;
+}
+
+footer {
+    background-color:black
+}
